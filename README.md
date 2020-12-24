@@ -39,7 +39,7 @@
 
 ---
 
-![WazeAzure's github stats](https://github-readme-stats.vercel.app/api?username=WazeAzuere&show_icons=true&count_private=true&theme=onedark)
+![WazeAzure's github stats](https://github-readme-stats.vercel.app/api?username=WazeAzure&show_icons=true&count_private=true&theme=onedark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WazeAzure&layout=compact&show_icons=true&theme=onedark)](https://github.com/WazeAzure/github-readme-stats)
