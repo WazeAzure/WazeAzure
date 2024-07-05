@@ -1,12 +1,5 @@
 ### Hi there, I'm Edbert - a.k.a [WazeAzure](https://wazeazure.github.io) 👋
 
-- 🔭 I’m currently working on Web site/apps and Data Science
-- 🌱 I’m currently learning MERN and Machine Learning
-- 👯 I’m looking to collaborate in open-source.
-- 💬 Ask me about web design & web development.
-- 😄 Pronouns: He/Him.
-- 🥅 2021 Goals: MERN, and advanced Data Science
-- ⚡ Fun fact: I love to code, I play guitars and love to cook.
 - 📫 Reach me on:
 <a href="mailto:Edbert.E.Gunawan@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/WazeAzure" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
