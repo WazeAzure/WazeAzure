@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate and driven Informatics Engineerin
 | --- | --- | --- |
 | [os-2024](https://github.com/labsister21/os-2024-moggers) | C, ASM | x86 Operating System from scratch |
 | [Wikirace Solver](https://github.com/WazeAzure/Tubes2_WiCiGga) | GO, Docker, ReactJS, gin, bitcask | a wikirace solver website with FE and BE. Utilizing concurrency and caching speeding up the execution time with BFS, A* Algorithm |
-| PPDB | php, mysql | Website for Announcing New Student Admissions (PPDB) Results for SMA Pradita Dirgantara |
+| [PPDB](https://github.com/WazeAzure/PPDB) | php, mysql | Website for Announcing New Student Admissions (PPDB) Results for SMA Pradita Dirgantara |
 | [Fingerprint Recognition](https://github.com/AureliusJustin/Tubes3_X) | c#, wpf, docker, mysql | a desktop app applicaion to match fingerprint images with Knuth–Morris–Pratt and Boyer Moore Algorithm  |
 
 ## Side Hobby
